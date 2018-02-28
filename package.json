@@ -1,0 +1,15 @@
+{
+  "name": "Medical-Assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Health / Mediacal chat bot",
+  "dependencies": {        
+    "aws-sdk": "^2.49.0",     
+  },
+    "devDependencies": {   
+         
+  },
+  "scripts": {
+    "start": "node index.js"     
+  }
+}
